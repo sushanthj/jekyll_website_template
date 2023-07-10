@@ -1,7 +1,3 @@
-Before you run jekyll install git and git lfs
-
-Refer: https://git-lfs.github.com/
-
 To run the following code setup Jekyll on your computer
 
 Refer: https://jekyllrb.com/docs/installation/ubuntu/
